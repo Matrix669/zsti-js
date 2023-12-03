@@ -1,2 +1,2 @@
 # zsti-js
-Branche jest reszta rzeczy 
+W branches jest reszta rzeczy 
